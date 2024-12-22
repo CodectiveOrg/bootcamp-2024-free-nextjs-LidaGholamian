@@ -1,3 +1,4 @@
+
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,nextjs,webstorm
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,nextjs,webstorm
 
@@ -170,6 +171,5 @@ fabric.properties
 .idea/**/azureSettings.xml
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,nextjs,webstorm
-
 .idea/
 .vscode/
